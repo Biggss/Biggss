@@ -1,23 +1,13 @@
 [![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)](#)
 <h1 align="center">Hi 👋, I'm Armand!</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 
 
 
 - 🔭 I’m currently working as **Freelancer**
 
 - 🌱 I’m currently learning **Cyber Security**
-
-- 👯 I’m looking to collaborate on **...**
-
-- 🤝 I’m looking for help with **...**
-
-- 👨‍💻 All of my projects are available at [...](...)
-
-- 📝 I regularly write articles on [...](...)
-
-- 💬 Ask me about **...**
 
 - 📫 How to reach me **armandpaulcortes@gmail.com**
 
